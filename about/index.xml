@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on jpop</title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in Abouts on jpop</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    
+    
+    
+    
+    <lastBuildDate>Thu, 18 Sep 2025 16:46:29 +0200</lastBuildDate>
+    
+    
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/about/</link>
+      <pubDate>Thu, 18 Sep 2025 16:46:29 +0200</pubDate>
+      <guid>http://localhost:1313/about/about/</guid>
+      <description>&lt;h1 id=&#34;how-i-define-myself--&#34;&gt;How I define myself  :&lt;/h1&gt;&#xA;&lt;p&gt;Neuroatypical (bipolar I) Catholic christian, anarchist advocating for non-violent revolution, philosophy grad student working part time as an educator in a middle-school, computer science enthusiast and linux enjoyer, artist in my spare time, curious about the world and an anthropophile.&lt;/p&gt;&#xA;&lt;h1 id=&#34;curently-&#34;&gt;Curently :&lt;/h1&gt;&#xA;&lt;p&gt;Living in a quaint harbour-town somewhere in France. Francophone Canadian in the Great North and French with a British father in France. In my twenties and single.&lt;/p&gt;&#xA;&lt;h1 id=&#34;what-i-do-&#34;&gt;What I do :&lt;/h1&gt;&#xA;&lt;p&gt;I&amp;rsquo;m resuming my philosophy curriculum in an online school after a few short turns. I did not pursue my Communications &amp;amp; Marketing degree because I simply wanted to follow my desired academic route without looking for a profitable corporate career that did not align with my values, in a market that did not need me otherwise. In my spare time, outside of my day job and university studies, I try to learn everything there is about computer science, programming, web development and system administration. I love cooking, films and poetry.&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>
