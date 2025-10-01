@@ -1,39 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Homepage on ⋆ jpop</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in Homepage on ⋆ jpop</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    
-    
-    
-    
-    <lastBuildDate>Thu, 18 Sep 2025 18:03:04 +0200</lastBuildDate>
-    
-    
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>setupanduses</title>
-      <link>http://localhost:1313/setupanduses/</link>
-      <pubDate>Thu, 18 Sep 2025 18:03:04 +0200</pubDate>
-      <guid>http://localhost:1313/setupanduses/</guid>
-      <description>&lt;h1 id=&#34;desktop-pc&#34;&gt;Desktop PC&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Computer&lt;/strong&gt; :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;CPU : AMD Ryzen 7 5800X 4.85GHz&lt;/li&gt;&#xA;&lt;li&gt;GPU : AMD Radeon RX 6600&lt;/li&gt;&#xA;&lt;li&gt;RAM : 32 GB&lt;/li&gt;&#xA;&lt;li&gt;DISK : 1 TB NVMe&lt;/li&gt;&#xA;&lt;li&gt;DISPLAY : KOORUI 24&amp;quot; 1080p 75Hz&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Peripherals&lt;/strong&gt; :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Keyboard : Aula F75&lt;/li&gt;&#xA;&lt;li&gt;Mouse : Logi MX Master 3S (white)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Software&lt;/strong&gt; :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;OS : Fedora KDE 42&lt;/li&gt;&#xA;&lt;li&gt;Terminal : Konsole 25.8.0&lt;/li&gt;&#xA;&lt;li&gt;Text editor : Micro&lt;/li&gt;&#xA;&lt;li&gt;Browser : Firefox&lt;/li&gt;&#xA;&lt;li&gt;Note-taking : Obsidian&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Thu, 18 Sep 2025 16:46:29 +0200</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;h1 id=&#34;how-i-define-myself--&#34;&gt;How I define myself  :&lt;/h1&gt;&#xA;&lt;p&gt;Neurodivergent Catholic christian, anarchist advocating for non-violent revolution, philosophy grad student working part time as an educator in a middle-school, computer science enthusiast and linux enjoyer, artist in my spare time, curious about the world and an anthropophile.&lt;/p&gt;&#xA;&lt;h1 id=&#34;currently-&#34;&gt;Currently :&lt;/h1&gt;&#xA;&lt;p&gt;Living in a quaint harbour-town somewhere in France. Francophone Canadian in the Great North and French with a British father in France. In my twenties and single.&lt;/p&gt;&#xA;&lt;h1 id=&#34;what-i-do-&#34;&gt;What I do :&lt;/h1&gt;&#xA;&lt;p&gt;I&amp;rsquo;m resuming my philosophy curriculum in an online school after a few short turns. I did not pursue my Communications &amp;amp; Marketing degree because I simply wanted to follow my desired academic route without looking for a profitable corporate career that did not align with my values, in a market that did not need me otherwise. In my spare time, outside of my day job and university studies, I try to learn everything there is about computer science, programming, web development and system administration. I love cooking, films and poetry.&lt;/p&gt;&#xA;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
-      <description>&lt;p&gt;e-mail : &lt;a href=&#34;mailto:jimmypop1968@proton.me&#34;&gt;jimmypop1968@proton.me&lt;/a&gt;&lt;/p&gt;&#xA;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Homepage on ⋆ jpop</title><link>http://localhost:1313/</link><description>Recent content in Homepage on ⋆ jpop</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 30 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title>Learning german</title><link>http://localhost:1313/posts/learninggerman/</link><pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/learninggerman/</guid><description>&lt;p&gt;It is after meeting a very nice German guy from the school I work at (and becoming friends with him) who was there for four weeks observing classes and teaching a few lessons for his university programme, that I got more comfortable with the idea that I could learn German again. Even though I was bad at it in middle-school. It is important for me to challenge my sterile own beliefs, especially regarding my so-called inabilities.&lt;/p&gt;
+&lt;p&gt;As it is for mathematics, which I&amp;rsquo;ve always thought I would eternally be bad at, from primary school onwards, I picked up programming (Python and later Go). I wouldn&amp;rsquo;t dive into Foundational mathematics as I see no direct interest in it, but programming is the closest hobby that uses maths, and, for me, which is a victory over my past F student self.&lt;/p&gt;
+&lt;p&gt;Of course I&amp;rsquo;ve got a goal set through learning German. The craziest is reading German Philosophy in its source language, but there is also a beauty, a complexity and craft in the language that I appreciate. Being able to connect to a culture through their language is for me a way to expand our humanity.&lt;/p&gt;
+&lt;p&gt;I believe settling for bilingualism only is not enough, and I need to pick up a third language. That is why I signed up for Ouino. I&amp;rsquo;m now trying to find a German person to converse with, like a &amp;rsquo;tutor'.&lt;/p&gt;</description></item><item><title>setupanduses</title><link>http://localhost:1313/setupanduses/</link><pubDate>Thu, 18 Sep 2025 18:03:04 +0200</pubDate><guid>http://localhost:1313/setupanduses/</guid><description>&lt;h1 id="desktop-pc"&gt;Desktop PC&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Computer&lt;/strong&gt; :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;CPU : AMD Ryzen 7 5800X 4.85GHz&lt;/li&gt;
+&lt;li&gt;GPU : AMD Radeon RX 6600&lt;/li&gt;
+&lt;li&gt;RAM : 32 GB&lt;/li&gt;
+&lt;li&gt;DISK : 1 TB NVMe&lt;/li&gt;
+&lt;li&gt;DISPLAY : KOORUI 24&amp;quot; 1080p 75Hz&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Peripherals&lt;/strong&gt; :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Keyboard : Aula F75&lt;/li&gt;
+&lt;li&gt;Mouse : Logi MX Master 3S (white)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Software&lt;/strong&gt; :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;OS : Fedora KDE 42&lt;/li&gt;
+&lt;li&gt;Terminal : Konsole 25.8.0&lt;/li&gt;
+&lt;li&gt;Text editor : Micro&lt;/li&gt;
+&lt;li&gt;Browser : Firefox&lt;/li&gt;
+&lt;li&gt;Note-taking : Obsidian&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>About</title><link>http://localhost:1313/about/</link><pubDate>Thu, 18 Sep 2025 16:46:29 +0200</pubDate><guid>http://localhost:1313/about/</guid><description>&lt;h1 id="how-i-define-myself--"&gt;How I define myself :&lt;/h1&gt;
+&lt;p&gt;Neurodivergent Catholic christian, anarchist advocating for non-violent revolution, philosophy grad student working part time as an educator in a middle-school, computer science enthusiast and linux enjoyer, artist in my spare time, curious about the world and an anthropophile.&lt;/p&gt;
+&lt;h1 id="currently-"&gt;Currently :&lt;/h1&gt;
+&lt;p&gt;Living in a quaint harbour-town somewhere in France. Francophone Canadian in the Great North and French with a British father in France. In my twenties and single.&lt;/p&gt;
+&lt;h1 id="what-i-do-"&gt;What I do :&lt;/h1&gt;
+&lt;p&gt;I&amp;rsquo;m resuming my philosophy curriculum in an online school after a few short turns. I did not pursue my Communications &amp;amp; Marketing degree because I simply wanted to follow my desired academic route without looking for a profitable corporate career that did not align with my values, in a market that did not need me otherwise. In my spare time, outside of my day job and university studies, I try to learn everything there is about computer science, programming, web development and system administration. I love cooking, films and poetry.&lt;/p&gt;</description></item><item><title/><link>http://localhost:1313/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/contact/</guid><description>&lt;p&gt;e-mail : &lt;a href="mailto:jimmypop1968@proton.me"&gt;jimmypop1968@proton.me&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>
